@@ -1,0 +1,9 @@
+{
+  "token": "Token_du_bot",
+  "prefix": "*",
+  "status": "Raid Cleaner v1〡déa",
+  "color": "#0000ff",
+  "footer": "Raid Cleaner",
+  "sys": ["Ton ID"],
+  "owners": ["ID_Owner(acces cmd bot)"]
+}

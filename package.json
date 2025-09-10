@@ -1,0 +1,14 @@
+{
+  "name": "raid-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord de gestion/raid en NodeJS (discord.js v14).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "d34fr",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
