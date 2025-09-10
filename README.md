@@ -1,5 +1,5 @@
 
-````markdown
+
 # ⚔️ Cleaner Bot
 
 Un bot Discord **en NodeJS (Discord.js v14)** avec des commandes de gestion puissantes (⚠️ à utiliser avec prudence).  
@@ -13,7 +13,7 @@ Toutes les réponses se font en **embed**, avec un style propre et lisible.
    ```bash
    git clone https://github.com/tonpseudo/raid-bot.git
    cd raid-bot
-````
+
 
 2. **Installer les dépendances**
 
